@@ -1,6 +1,7 @@
 /public/wp
 
 /vendor
+/sql
 
 wp-config.php
 wp-config-*.php
@@ -20,3 +21,5 @@ public/wp-content/uploads/*
 
 !public/wp-content/languages
 public/wp-content/languages/*
+
+.DS_Store
