@@ -6,12 +6,12 @@
 wp-config.php
 wp-config-*.php
 !wp-config-sample.php
+!public/wp-config.php
 
 !public/wp-content/themes
 public/wp-content/themes/*
 !public/wp-content/themes/custom-theme
 
-!public/wp-config.php
 !public/wp-content/plugins
 public/wp-content/plugins/*
 !public/wp-content/plugins/custom-plugin
@@ -23,3 +23,5 @@ public/wp-content/uploads/*
 public/wp-content/languages/*
 
 .DS_Store
+public/.DS_Store
+public/wp-content/.DS_Store
