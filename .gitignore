@@ -11,7 +11,7 @@ wp-config-*.php
 public/wp-content/themes/*
 !public/wp-content/themes/custom-theme
 
-!public/wp-content/wp-config.php
+!public/wp-config.php
 !public/wp-content/plugins
 public/wp-content/plugins/*
 !public/wp-content/plugins/custom-plugin
